@@ -1,0 +1,204 @@
+/*.react-rater a {
+    cursor: pointer;
+    color: #ccc;
+    position: relative;
+}
+
+.react-rater a.is-active {
+    color: #fc6;
+}
+
+.react-rater a:mouseenter {
+    cursor: pointer;
+    color: blue;
+    position: relative;
+}*/
+
+.nav-tabs>li>a {
+   background-color: #008bb8;
+       color: #FFFFFF; 
+}
+
+
+
+.rdtPicker {
+   
+    background: #0e3c52 !important;
+}
+
+.calenderbutton{
+    height: 46px;
+}
+
+.LH-prisciptions .LH-pItem {
+   
+    background-color: beige;
+}
+
+.LH-medicine-info {
+    margin: 10px 0;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.dv-star-rating-star {
+    font-size: 30px
+}
+
+.btn-plus {
+    height:46px;
+}
+
+.alert-fixed {
+    position:fixed; 
+    top: 5px; 
+    right: 5px; 
+    width: 30%;
+    z-index:9999; 
+    border-radius:5px
+}
+
+#alternateMobile-error,#mobileNumber-error{
+    color: red;
+}
+
+.intl-tel-input .country-list{
+    z-index: 1005;
+}
+.reloadImage{
+    max-width: 30px; 
+    max-height: 22px;
+    background-color: transparent;
+}
+
+
+.rtlSupport {
+    direction: rtl;
+    text-align: right;
+}
+
+
+.LH-header {
+    position: fixed;
+    z-index:10;
+    width: 100%;
+}
+
+.reset-index {
+    z-index: 1;
+}
+
+.LH-body .left-sidebar {
+    position: fixed;
+    z-index: 2;
+}
+
+.right-sidebar {
+    margin-left:250px;
+}
+
+
+.dropdown-menu{left:auto; right:0px; min-width:100px;font-size:12px;}
+
+.intl-tel-input .selected-flag{z-index: 2}
+
+.tel-input .bootstrap-typeahead-input-hint{left:43px;}
+
+.scrollable-menu {
+    height: auto;
+    max-height: 200px;
+    overflow-x: hidden;
+}
+
+.error-border {
+	border-color:red;
+	border-width:1px;
+	border-style:solid;
+	border-radius:5px;
+}
+
+.dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover{
+    color:#333;
+    text-decoration:none;
+    background-color:#f6f6f6;
+    outline:1;
+}
+
+.typeaheadlist {
+	border-bottom:1px solid #EEEEEE;
+}
+
+.LH-login-container .login-sect{width:800px;}
+
+.ui-datepicker-trigger{cursor:pointer ,width:30px;height: 30px}
+.title-block{background:#FFFFFF; padding:15px;}
+.fc-toolbar h2 { font-size: 16px }
+.no-js #loader { display: none;  }
+.js #loader { display: block; position: absolute; left: 100px; top: 0; }
+.se-pre-con {
+	position: fixed;
+	opacity: 0.5;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	background: url('../images/black_loader.gif') center no-repeat #fff;
+    background-size: 200px 200px;
+}
+
+.small-modal{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.btn.btn-gray {
+    color:#fff;
+    background-color:#758294;
+    border-color:#2e6da4;
+    padding-top: 2px;
+    padding-right: 15px;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    font-size:11px;
+    
+}
+.hand-cursor{
+    cursor:pointer;
+}
+
+.button-active{
+    border-radius: 4px;
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 10px 108px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+}
+
+
+
+/*.button-InActive{
+    border-radius: 4px;
+    background-color: #fff;
+    border: none;
+    color: white;
+    padding: 10px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    border-color: #ccc;
+}*/
+
